@@ -1,0 +1,9 @@
+# build output
+BeamMP-Server-Browser.exe
+dist/
+
+# one person's own servers and settings (any exported server list is a .txt)
+*.txt
+data.json
+data.json.*
+errors.log
